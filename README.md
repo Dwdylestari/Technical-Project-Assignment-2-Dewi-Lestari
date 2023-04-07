@@ -15,8 +15,7 @@ Tim : FE-4
    - Tag <main> yang menandakan bahwa ini adalah bagian utama dari halaman.
    - Tag <div id="container"> untuk membagi halaman menjadi beberapa bagian.
    - Tag <nav> untuk menampilkan navigasi halaman.
-   
-   - Tag <h1> untuk menampilkan judul utama halaman.
+   - Tag "h1" untuk menampilkan judul utama halaman.
    - Tag <div class="project"> yang berisi tabel yang berisi form untuk memasukkan berat badan dan tinggi badan dan tombol untuk menghitung BMI.
    - Tag <input> untuk memasukkan nilai berat badan dan tinggi badan.
    - Tag <button> untuk tombol "Menghitung BMI".
