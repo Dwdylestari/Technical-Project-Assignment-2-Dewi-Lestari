@@ -32,9 +32,9 @@ Tim : FE-4
 
 Setelah itu, terdapat event listener pada:
 
-- button "hitungBtn" dengan metode addEventListener(). Ketika button tersebut di klik, maka akan dihitung BMI berdasarkan nilai berat dan tinggi yang diambil dari beratInput dan tinggiInput. Jika kedua nilai tersebut valid, maka akan dihitung nilai BMI dengan rumus berat / (tinggi \* tinggi).
-- kemudian nilai tersebut akan ditampilkan pada "bmiResult".
-- Selain itu, nilai kategori BMI yang sesuai dengan hasil perhitungan juga akan ditampilkan pada "statusResult".
-- Jika salah satu atau kedua nilai berat dan tinggi tidak valid, maka pesan error akan ditampilkan pada "statusResult".
+   - button "hitungBtn" dengan metode addEventListener(). Ketika button tersebut di klik, maka akan dihitung BMI berdasarkan nilai berat dan tinggi yang diambil dari beratInput dan tinggiInput. Jika kedua nilai tersebut valid, maka akan dihitung nilai BMI dengan rumus berat / (tinggi \* tinggi).
+   - kemudian nilai tersebut akan ditampilkan pada "bmiResult".
+   - Selain itu, nilai kategori BMI yang sesuai dengan hasil perhitungan juga akan ditampilkan pada "statusResult".
+   - Jika salah satu atau kedua nilai berat dan tinggi tidak valid, maka pesan error akan ditampilkan pada "statusResult".
 
 4. style.css yaitu kode untuk mempercantik tampilan dari segi warna, gaya huruf, dan gambar pada halaman index.html dan calculator.html.
