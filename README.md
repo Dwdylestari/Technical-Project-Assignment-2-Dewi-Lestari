@@ -9,18 +9,18 @@ Tim : FE-4
 
 2. calculator.html yaitu koding yang akan menampilkan halaman MBI Calculator, pada halaman ini anda akan manginputkan berat dan tinggi badan anda, kemudian klik button "Menghitung MBI" setelah itu akan muncul hasilnya.
 
-   - Tag <html> yang menandakan bahwa ini adalah halaman HTML
-   - Tag <head> yang berisi informasi tentang halaman, yaitu judul, meta data, dan link ke file CSS
-   - Tag <body> yang berisi konten utama halaman
-   - Tag <main> yang menandakan bahwa ini adalah bagian utama dari halaman
-   - Tag <div id="container"> untuk membagi halaman menjadi beberapa bagian
-   - Tag <nav> untuk menampilkan navigasi halaman
-   - Tag <h1> untuk menampilkan judul utama halaman
-   - Tag <div class="project"> yang berisi tabel yang berisi form untuk memasukkan berat badan dan tinggi badan dan tombol untuk menghitung BMI
-   - Tag <input> untuk memasukkan nilai berat badan dan tinggi badan
-   - Tag <button> untuk tombol "Menghitung BMI"
-   - Tag <div class="result-container"> untuk menampilkan hasil BMI dan status berat badan
-   - Tag <script> untuk memasukkan kode JavaScript
+   - Tag <html> yang menandakan bahwa ini adalah halaman HTML.
+   - Tag <head> yang berisi informasi tentang halaman, yaitu judul, meta data, dan link ke file CSS.
+   - Tag <body> yang berisi konten utama halaman.
+   - Tag <main> yang menandakan bahwa ini adalah bagian utama dari halaman.
+   - Tag <div id="container"> untuk membagi halaman menjadi beberapa bagian.
+   - Tag <nav> untuk menampilkan navigasi halaman.
+   - Tag <h1> untuk menampilkan judul utama halaman.
+   - Tag <div class="project"> yang berisi tabel yang berisi form untuk memasukkan berat badan dan tinggi badan dan tombol untuk menghitung BMI.
+   - Tag <input> untuk memasukkan nilai berat badan dan tinggi badan.
+   - Tag <button> untuk tombol "Menghitung BMI".
+   - Tag <div class="result-container"> untuk menampilkan hasil BMI dan status berat badan.
+   - Tag <script> untuk memasukkan kode JavaScript.
    - Tag <footer> untuk menampilkan informasi hak cipta.
 
 3. scrip.js yaitu kode yang digunakan untuk menghitung dan menampilkan hasil Body Mass Index (BMI) berdasarkan input berat dan tinggi yang diisi oleh pengguna. Di dalam kode tersebut memiliki beberapa variabel:
