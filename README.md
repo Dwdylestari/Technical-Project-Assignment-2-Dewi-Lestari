@@ -1,4 +1,4 @@
-# Technical Project Assignment 2 Dewi Lestari MBI Calkulator
+# Technical Project Assignment 2 Dewi Lestari BMI Calkulator
 
 Nama : Dewi Lestari
 Email : dewilestari300401@gmail.com
